@@ -19,7 +19,8 @@ combinando boas práticas e gerenciamento de grandes volumes de informação.
 
 
 ## 🧠 Habilidades e Tecnologias
-
+<!-- Github dos badges -> https://github.com/Ileriayo/markdown-badges e Site dos icones -> https://devicon.dev>
+<!-->
 <div display ="inline">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
