@@ -12,8 +12,11 @@ Iniciei consolidando uma base em lógica de programação e noções de infraest
 Percebendo o poder da informação e o meu interesse na área de dados, inciei minha transição para área de dados direcionando meus estudos e projetos para a engenharia e manipulação de dados,
 compreendendo desde a modelagem de bancos de dados tradicionais até arquiteturas analíticas modernas.
 
-Atualmente, aplico meu conhecimento no desenvolvimento de aplicações e na estruturação de dados de forma eficiente,
-combinando boas práticas de desenvolvimento com o gerenciamento de grandes volumes de informação.
+## 🎯 Atualmente
+* aplico meu conhecimento no desenvolvimento de soluções e na estruturação de dados,
+combinando boas práticas e gerenciamento de grandes volumes de informação.
+* Aprofundando os meus conhecimentos em pipeline em nuvem, governança de dados e qualidade dos dados.
+
 
 ## 🧠 Habilidades e Tecnologias
 
